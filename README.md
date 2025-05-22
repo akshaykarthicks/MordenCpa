@@ -20,5 +20,5 @@ The homepage includes:
   - Optional: React or Vue.js for dynamic behavior
   - Deployment: Netlify, Vercel, or traditional hosting
 
-## 📁 Project Structure (for development)
+
 
